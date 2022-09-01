@@ -1,0 +1,16 @@
+{
+  "name": "chewy-v12-uptime",
+  "version": "0.0.1",
+  "description": "Chewy tarafından kodlanmış uptime botudur.",
+  "main": "chewy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chewy",
+    "Glitch",
+    "Discord"
+  ],
+  "author": "Chewy",
+  "license": "MIT"
+}
